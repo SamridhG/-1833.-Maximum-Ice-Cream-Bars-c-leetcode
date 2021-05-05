@@ -44,6 +44,12 @@ Explanation: The boy can buy all the ice cream bars for a total price of 1 + 6 +
 Constraints:
 
 costs.length == n
+
+
 1 <= n <= 105
+
+
 1 <= costs[i] <= 105
+
+
 1 <= coins <= 108
